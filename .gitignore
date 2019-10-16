@@ -4,3 +4,4 @@ __pycache__
 resources/.DS_Store
 reference/.DS_Store
 templates/.DS_Store
+.idea/
